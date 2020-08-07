@@ -9,7 +9,7 @@ public class AppTest {
 	@Test
 	public void test() {
 		
-		System.out.println("..This Test is Successful..");
+		System.out.println("..This is second test..");
 	}
 
 }
