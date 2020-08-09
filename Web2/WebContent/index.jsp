@@ -7,6 +7,6 @@
 <title>Welcome to Tomcat web services</title>
 </head>
 <body>
-	This is Tomcat web services
+	This is Tomcat web services 2
 </body>
 </html>
